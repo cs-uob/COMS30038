@@ -1,4 +1,4 @@
-# Week 3: Cybercriminology
+# Week 7: Cybercriminology
 
 This week focused on cybercriminology, the study of cybercrimes and cybercriminals. We will be covering:
 
