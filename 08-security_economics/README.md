@@ -1,4 +1,4 @@
-# Week 4: Security Economics
+# Week 8: Security Economics
 
 This week is focused on economics and its applications to security. We will be covering:
 
