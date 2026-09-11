@@ -36,4 +36,4 @@ In this week's lab, you will be:
 You should meet with your TA group in the labs. You will need:
 
 - [The lab worksheet](lab_social.pdf)
-- [This folder of scam emails](emails.zip)
+- [This folder of scam emails](scams.zip)
