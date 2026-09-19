@@ -68,7 +68,7 @@ In addition, we are providing examples of past good answers to essay questions f
 
 Students on the **Minor** option will want to look at the 'L' answers in past exam-essay answers -- this is the style you should be aiming at for your summative assessment.
 
-Students on the **Major** option will want to look at the 'S' answers in past exam-essay answers to understand the style for the Week 8 examination, and look at the coursework essays as examples for their own original research essay. 
+Students on the **Major** option will want to look at the 'S' answers in past exam-essay answers to understand the style for the Week 6 examination, and look at the coursework essays as examples for their own original research essay. 
 
 Remember that these are examples for the style of writing you should be aiming at, and not the topics of questions and assignments, which we change (within reason) from year to year. Note also that exam essays must be hand-written.
 
