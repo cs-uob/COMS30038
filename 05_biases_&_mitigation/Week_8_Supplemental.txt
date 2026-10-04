@@ -1,5 +1,5 @@
 ---
-title: COMS30038 Security Behaviours - Week 8 Supplemental Info
+title: COMS30038 Security Behaviours - Week 5 Supplemental Info
 purpose: 
 author: Dr Ramokapane
 date: Nov 2025
