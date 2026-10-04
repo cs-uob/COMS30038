@@ -1,4 +1,4 @@
-# Week 5: Human in the Loop & Usable Security
+# Week 3: Human in the Loop & Usable Security
 
 This week focuses on human in the loop and usable security. We will be covering:
 
