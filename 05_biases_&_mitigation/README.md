@@ -1,4 +1,4 @@
-# Week 8: The role of Bias & Security Ergonomics by Design
+# Week 5: The role of Bias & Security Ergonomics by Design
 
 This week focuses on the role of bias and security ergonomics. We will be covering:
 
@@ -31,7 +31,7 @@ https://doi.org/10.1109/SEsCPS.2017.5
 | 2.1 | Security Ergonomics| [streams](https://uob-my.sharepoint.com/:v:/r/personal/kr17991_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/COMS30038%20-%20Lecture%2010%20Security%20Ergonomics%20by%20Design-20221114_061509.mp4?csf=1&web=1&e=SPoCo7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) [mediasite]() | [slides](slides/COMS30038-Lecture_10-Security_Ergonomics.pdf) |
 
 
-[Week 8 Supplementary material](Week_8_Supplemental.txt)
+[Week 5 Supplementary material](Week_8_Supplemental.txt)
 
 
 ## Lab
