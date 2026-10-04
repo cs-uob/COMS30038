@@ -38,7 +38,7 @@ This week's reading list:
 
 
 
-[Week 7 Supplementary material](Inclusive_Security_Supplementary_material.txt)
+[Week 4 Supplementary material](Inclusive_Security_Supplementary_material.txt)
 
 
 ## Lab
