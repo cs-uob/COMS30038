@@ -1,4 +1,4 @@
-# Week 7: Inclusive Security & Error in Practice
+# Week 4: Inclusive Security & Error in Practice
 
 This week focuses on inclusive security and error in practice. We will be covering:
 
