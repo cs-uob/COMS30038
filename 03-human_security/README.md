@@ -54,6 +54,6 @@ During this session you will:
 
 You should meet with your TA group in the labs. You will need:
 
-- [The lab worksheet](Debating_security_101_students-final-2025.pdf)
-- [Topic list](Week5_lab_session.pdf)
+- [The lab worksheet](Debating_security_101_students-final-2026.pdf)
+- [Topic list](Week_3_lab_session.pdf)
 
