@@ -36,4 +36,4 @@ https://doi.org/10.1109/SEsCPS.2017.5
 
 ## Lab
 
-No lab this week. Students on the **Major option** will be writing their mid-term examination.
+Privacy Labels. 
